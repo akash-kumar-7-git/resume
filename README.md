@@ -1,2 +1,5 @@
-# resume
-This is my public Resume. (./Ai_Resume.pdf)
+# Resume
+
+This is my public Resume.
+
+[📄 View My Resume](./Ai_Resume.pdf)
